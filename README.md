@@ -44,7 +44,7 @@ lo que me ha permitido desarrollar habilidades técnicas y de trabajo en equipo.
 | Electrónica y prototipado | Arduino, sensores, soldadura, osciloscopio |
 | Simulación y dinámica | MATLAB, Simulink |
 | Programación | C/C++ para Arduino, Python (nivel intermedio), MATLAB |
-| Otros | Excel avanzado, Git, LaTeX |
+| Otros | Excel avanzado, Office |
 
 
 ---
